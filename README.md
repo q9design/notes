@@ -20,6 +20,7 @@ Consider
         - picture/video memory card
         - usb thumb/external
         - sata/pata drive
+        - live sources
     - archive (versioned)
 
 
