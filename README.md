@@ -6,12 +6,13 @@ Consider
 - mediaBrowser
     - video
     - audio
+    - image
     - game/app
 - cfs
     - search
-    - virtual (legacy) folder structure views)
+    - virtual (legacy) folder structure views
     - tagging
-    - auto analisys (deep inspection)
+    - auto analysis (deep inspection)
 - fcrunch
     - autoimport
         - cd
