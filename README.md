@@ -28,4 +28,4 @@ Consider
 
 
 
-> use issuses for ideas?
+> use issues for ideas?
