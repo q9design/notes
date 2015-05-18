@@ -3,6 +3,7 @@
 
 Consider
 
+- nimble
 - mediaBrowser
     - video
     - audio
